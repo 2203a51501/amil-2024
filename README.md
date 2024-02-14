@@ -4,3 +4,5 @@ assignment task-2 https://github.com/2203a51501/amil-2024/blob/main/assignment-1
 
 assignment Task3 https://github.com/2203a51501/amil-2024/blob/main/2203A51534_A1_Task3.ipynb
 
+ week 2 https://github.com/2203a51501/amil-2024/blob/main/2203a51501.pdf
+
